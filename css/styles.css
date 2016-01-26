@@ -1,0 +1,15 @@
+
+@media (min-width: 0px)(max-width: 300px) {
+  .image {
+    display: none;
+  }
+
+/*@media (min-width: 351px) and (max-width: 940px) {
+ .image {
+    max-height: 15%;
+    }
+
+@media (min-width: 941px) and (max-width: 1140px) {
+  .image {
+    max-height: 5%;
+      }*/
